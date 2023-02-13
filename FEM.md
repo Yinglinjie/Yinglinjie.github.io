@@ -1,6 +1,7 @@
-layout: page
+layout: post
 title: "FEM"
-permalink: /about/FEM
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
 
 ::: flushleft
 Student Name: Linjie Ying\
