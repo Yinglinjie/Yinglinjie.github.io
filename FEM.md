@@ -1,6 +1,6 @@
 layout: post
 title: "FEM"
-date: YYYY-MM-DD hh:mm:ss -0000
+date: 2023-02-13 
 categories: CATEGORY-1 CATEGORY-2
 
 ::: flushleft
