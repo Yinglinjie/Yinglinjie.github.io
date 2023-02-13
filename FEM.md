@@ -1,3 +1,7 @@
+layout: page
+title: "FEM"
+permalink: /about/FEM
+
 ::: flushleft
 Student Name: Linjie Ying\
 Instructor: Dr. Pengtao Sun
